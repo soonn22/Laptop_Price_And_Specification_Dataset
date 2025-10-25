@@ -1,0 +1,916 @@
+,Generation,brand,gen,model,Model_Number
+0,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+1,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+2,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+3,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+4,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+5,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+6,Apple M1,Apple,None,M1,M1
+7,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+8,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+9,7th Gen Amd Ryzen 5 7535HS,Amd,7th,Ryzen 5,7535HS
+10,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+11,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+12,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+13,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+14,Apple M3,Apple,None,M3,M3
+15,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+16,5th Gen AMD Ryzen 3 5300U,AMD,5th,Ryzen 3,5300U
+17,Apple M2,Apple,None,M2,M2
+18,Intel Core 5 Processor Series 1 120U,Intel,None,None,120U
+19,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+20,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+21,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+22,5th Gen AMD Ryzen 7 5800U,AMD,5th,Ryzen 7,5800U
+23,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+24,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+25,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+26,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+27,Intel Core 3 Processor 100U,Intel,None,None,100U
+28,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+29,Intel Core Ultra 7 155U,Intel,None,Ultra 7,155U
+30,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+31,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+32,Intel Core Ultra 5 125U,Intel,None,Ultra 5,125U
+33,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+34,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+35,Intel Core 7 Processor Series 1 150U,Intel,None,None,150U
+36,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+37,6th Gen AMD Ryzen 9 6900HS,AMD,6th,Ryzen 9,6900HS
+38,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+39,7th Gen AMD Ryzen 3 7330U,AMD,7th,Ryzen 3,7330U
+40,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+41,11th Gen Intel Core i7 11800H,Intel,11th,i7,11800H
+42,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+43,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+44,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+45,3rd Gen AMD Athlon 3050U,AMD,3rd,Athlon,3050U
+46,12th Gen Intel Core i7 12700H,Intel,12th,i7,12700H
+47,6th Gen AMD Ryzen 7  6800H,AMD,6th,Ryzen 7,6800H
+48,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+49,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+50,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+51,Intel Core 5 Processor Series 1 120U,Intel,None,None,120U
+52,Intel Core 5 Processor Series 1 120U,Intel,None,None,120U
+53,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+54,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+55,8th Gen AMD Ryzen 7 8840HS,AMD,8th,Ryzen 7,8840HS
+56,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+57,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+58,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+59,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+60,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+61,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+62,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+63,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+64,14th Gen Intel Core i7 14700HX,Intel,14th,i7,14700HX
+65,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+66,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+67,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+68,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+69,Apple M3 Max,Apple,None,M3,Max
+70,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+71,12th Gen Intel Core i3 1220P,Intel,12th,i3,1220P
+72,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+73,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+74,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+75,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+76,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+77,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+78,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+79,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+80,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+81,11th Gen Intel Core i7 11800H,Intel,11th,i7,11800H
+82,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+83,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+84,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+85,intel Celeron  N4020,intel,None,Celeron,N4020
+86,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+87,11th Gen Intel Celeron N5100,Intel,11th,Celeron,N5100
+88,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+89,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+90,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+91,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+92,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+93,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+94,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+95,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+96,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+97,3rd Gen AMD Ryzen 3 3250U,AMD,3rd,Ryzen 3,3250U
+98,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+99,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+100,12th Gen Intel Core i5 1235U ,Intel,12th,i5,1235U
+101,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+102,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+103,6th Gen AMD Ryzen 9 6900HS,AMD,6th,Ryzen 9,6900HS
+104,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+105,5th Gen AMD Ryzen 7  5800H,AMD,5th,Ryzen 7,5800H
+106,5th Gen AMD Ryzen 5 5600H ,AMD,5th,Ryzen 5,5600H
+107,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+108,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+109,Intel Atom Quad Core Z3735F,Intel,None,Atom Quad Core,Z3735F
+110,Qualcomm X Elite NA,Qualcom,None,X Elite,NA
+111,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+112,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+113,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+114,Intel Core Ultra 7 155U,Intel,None,Ultra 7,155U
+115,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+116,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+117,Intel Core Ultra 7 155U,Intel,None,Ultra 7,155U
+118,Intel Core Ultra 7 155U,Intel,None,Ultra 7,155U
+119,8th Gen AMD Ryzen 7 8845HS,AMD,8th,Ryzen 7,8845HS
+120,Apple M3,Apple,None,M3,M3
+121,Apple M3,Apple,None,M3,M3
+122,Apple M3,Apple,None,M3,M3
+123,Apple M3,Apple,None,M3,M3
+124,14th Gen Intel Core i7 14700HX,Intel,14th,i7,14700HX
+125,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+126,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+127,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+128,Intel Core 7 Processor Series 1 150U,Intel,None,None,150U
+129,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+130,Intel Core 7 Processor Series 1 150U,Intel,None,None,150U
+131,Intel Core 5 Processor Series 1 120U,Intel,None,None,120U
+132,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+133,11th Gen Intel Core i7 1165G7,Intel,11th,i7,1165G7
+134,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+135,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+136,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+137,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+138,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+139,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+140,Intel Pentium Gold 7505,Intel,None,Pentium,7505
+141,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+142,13th Gen Intel Core i5 1334U,Intel,13th,i5,1334U
+143,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+144,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+145,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+146,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+147,3rd Gen AMD Ryzen 3 3250U,AMD,3rd,Ryzen 3,3250U
+148,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+149,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+150,Intel Core i9 14900HX,Intel,None,i9,14900HX
+151,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+152,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+153,6th Gen AMD Ryzen 7 6800H,AMD,6th,Ryzen 7,6800H
+154,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+155,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+156,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+157,Apple M3 Max,Apple,None,M3,Max
+158,Apple M3 Pro,Apple,None,M3,Pro
+159,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+160,AMD Athlon Silver 7120U,AMD,None,Athlon,7120U
+161,Apple M3,Apple,None,M3,M3
+162,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+163,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+164,7th Gen AMD Ryzen 5 7520U ,AMD,7th,Ryzen 5,7520U
+165,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+166,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+167,11th Gen Intel Core i3 1125G4,Intel,11th,i3,1125G4
+168,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+169,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+170,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+171,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+172,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+173,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+174,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+175,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+176,12th Gen Intel Core i7 12700H ,Intel,12th,i7,12700H
+177,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+178,11th Gen intel Core i3 1115G4,intel,11th,i3,1115G4
+179,13th Gen Intel Core i7 NA,Intel,13th,i7,NA
+180,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+181,12th Gen Intel Core i5 12500H ,Intel,12th,i5,12500H
+182,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+183,Intel Celeron  N4020,Intel,None,Celeron,N4020
+184,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+185,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+186,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+187,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+188,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+189,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+190,11th Gen Intel Core i3  1115G4,Intel,11th,i3,1115G4
+191,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+192,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+193,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+194,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+195,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+196,5th Gen AMD Ryzen 5  5600H ,AMD,5th,Ryzen 5,5600H
+197,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+198,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+199,Apple M2,Apple,None,M2,M2
+200,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+201,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+202,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+203,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+204,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+205,12th Gen Intel Core i9 12900HX,Intel,12th,i9,12900HX
+206,12th Gen Intel Core i7 12700H,Intel,12th,i7,12700H
+207,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+208,6th Gen AMD Ryzen 7 6800H ,AMD,6th,Ryzen 7,6800H
+209,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+210,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+211,10th Gen Intel Core i7 10750H,Intel,10th,i7,10750H
+212,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+213,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+214,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+215,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+216,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+217,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+218,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+219,4th Gen Intel Celeron N4020,Intel,4th,Celeron,N4020
+220,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+221,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+222,7th Gen AMD Ryzen 7 7840U,AMD,7th,Ryzen 7,7840U
+223,8th Gen AMD Ryzen 5 8640HS,AMD,8th,Ryzen 5,8640HS
+224,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+225,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+226,8th Gen AMD Ryzen 7 8845HS,AMD,8th,Ryzen 7,8845HS
+227,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+228,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+229,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+230,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+231,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+232,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+233,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+234,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+235,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+236,Intel Core Ultra 9 Series 1 185H,Intel,None,Ultra 9,185H
+237,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+238,Intel Celeron N4020,Intel,None,Celeron,N4020
+239,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+240,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+241,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+242,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+243,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+244,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+245,12th Gen Intel Celeron N100,Intel,12th,Celeron,N100
+246,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+247,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+248,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+249,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+250,Intel Core Ultra 9 Series 1 185H,Intel,None,Ultra 9,185H
+251,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+252,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+253,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+254,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+255,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+256,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+257,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+258,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+259,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+260,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+261,14th Gen Intel Core i9 14900HX,Intel,14th,i9,14900HX
+262,11th Gen Intel Core i5 11400H,Intel,11th,i5,11400H
+263,5th Gen AMD Ryzen 7 5700U,AMD,5th,Ryzen 7,5700U
+264,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+265,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+266,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+267,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+268,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+269,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+270,Intel Core Ultra 5 Series 1 125H,Intel,None,Ultra 5,125H
+271,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+272,10th Gen Intel Core i5 10210Y,Intel,10th,i5,10210Y
+273,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+274,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+275,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+276,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+277,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+278,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+279,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+280,Intel Pentium N100,Intel,None,Pentium,N100
+281,MediaTek Kompanio 520 Kompanio 520,Media,None,Kompanio,520
+282,MediaTek Kompanio 520 Kompanio 520,Media,None,Kompanio,520
+283,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+284,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+285,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+286,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+287,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+288,11th Gen Intel Core i5 11400H,Intel,11th,i5,11400H
+289,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+290,MediaTek Kompanio Kompanio 520,Media,None,Kompanio,520
+291,12th Gen intel Core i5 12450HX,intel,12th,i5,12450HX
+292,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+293,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+294,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+295,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+296,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+297,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+298,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+299,14th Gen Intel Core i7 14700HX,Intel,14th,i7,14700HX
+300,12th Gen Intel N100 N100,Intel,12th,None,N100
+301,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+302,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+303,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+304,10th Gen Intel Core i5 1035G1,Intel,10th,i5,1035G1
+305,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+306,Intel Celeron N4020,Intel,None,Celeron,N4020
+307,11th Gen Intel Core i5 L16G7,Intel,11th,i5,L16G7
+308,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+309,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+310,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+311,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+312,12th Gen intel Core i5 12450H,intel,12th,i5,12450H
+313,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+314,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+315,Intel Core Ultra 7 Series 1 155H,Intel,None,Ultra 7,155H
+316,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+317,Intel Core Ultra 9 Series 1 185H,Intel,None,Ultra 9,185H
+318,Intel Core Ultra 9 Series 1 185H,Intel,None,Ultra 9,185H
+319,11th Gen Intel Core i5 1135G7 ,Intel,11th,i5,1135G7
+320,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+321,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+322,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+323,5th Gen AMD Ryzen 5  5500U,AMD,5th,Ryzen 5,5500U
+324,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+325,8th Gen Amd Ryzen 7 8845HS,Amd,8th,Ryzen 7,8845HS
+326,11th Gen Intel Core i7 11800H,Intel,11th,i7,11800H
+327,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+328,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+329,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+330,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+331,4th Gen Intel Celeron N4020,Intel,4th,Celeron,N4020
+332,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+333,5th Gen AMD Ryzen 7  5700U,AMD,5th,Ryzen 7,5700U
+334,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+335,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+336,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+337,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+338,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+339,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+340,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+341,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+342,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+343,13th Gen Intel Core i9 13980HX,Intel,13th,i9,13980HX
+344,Intel Core i3 N305,Intel,None,i3,N305
+345,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+346,12th Gen Intel Core i7 1260P,Intel,12th,i7,1260P
+347,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+348,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+349,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+350,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+351,Intel Celeron  N4020,Intel,None,Celeron,N4020
+352,Apple M3 Pro,Apple,None,M3,Pro
+353,Apple M3,Apple,None,M3,M3
+354,Apple M3 Pro,Apple,None,M3,Pro
+355,Apple M3 Pro,Apple,None,M3,Pro
+356,Apple M3 Max,Apple,None,M3,Max
+357,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+358,11th Gen Intel Core i5 1135G7 ,Intel,11th,i5,1135G7
+359,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+360,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+361,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+362,5th Gen AMD Ryzen 5 5500H,AMD,5th,Ryzen 5,5500H
+363,Intel Celeron  N4020,Intel,None,Celeron,N4020
+364,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+365,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+366,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+367,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+368,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+369,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+370,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+371,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+372,10th Gen Intel Core i5 1035G1,Intel,10th,i5,1035G1
+373,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+374,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+375,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+376,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+377,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+378,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+379,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+380,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+381,5th Gen AMD Ryzen 7  5700U,AMD,5th,Ryzen 7,5700U
+382,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+383,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+384,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+385,5th Gen AMD Ryzen 7 5800HS,AMD,5th,Ryzen 7,5800HS
+386,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+387,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+388,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+389,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+390,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+391,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+392,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+393,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+394,7th Gen AMD Ryzen 7  7730U,AMD,7th,Ryzen 7,7730U
+395,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+396,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+397,Intel Celeron  N4500,Intel,None,Celeron,N4500
+398,12th Gen Intel Core i5 12450H ,Intel,12th,i5,12450H
+399,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+400,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+401,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+402,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+403,6th Gen AMD Ryzen 7 6800H,AMD,6th,Ryzen 7,6800H
+404,11th Gen Intel Core i7 1165G7,Intel,11th,i7,1165G7
+405,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+406,5th Gen AMD Ryzen 7 5800HS,AMD,5th,Ryzen 7,5800HS
+407,Intel Celeron N4500,Intel,None,Celeron,N4500
+408,Intel   N4500,Intel,None,None,N4500
+409,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+410,5th Gen AMD Ryzen 5 5500H,AMD,5th,Ryzen 5,5500H
+411,Intel Celeron  N4020,Intel,None,Celeron,N4020
+412,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+413,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+414,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+415,MediaTek MT8183,Media,None,None,MT8183
+416,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+417,Intel Celeron N4500,Intel,None,Celeron,N4500
+418,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+419,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+420,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+421,Intel Celeron  N4020,Intel,None,Celeron,N4020
+422,7th Gen Amd Ryzen 7 7840H,Amd,7th,Ryzen 7,7840H
+423,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+424,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+425,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+426,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+427,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+428,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+429,11th Gen Intel Core i5 11400H,Intel,11th,i5,11400H
+430,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+431,5th Gen AMD Ryzen 5  5500U,AMD,5th,Ryzen 5,5500U
+432,Intel Celeron N4500,Intel,None,Celeron,N4500
+433,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+434,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+435,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+436,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+437,7th Gen AMD Ryzen 7 7745HX,AMD,7th,Ryzen 7,7745HX
+438,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+439,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+440,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+441,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+442,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+443,13th Gen Intel Core i9 13950HX,Intel,13th,i9,13950HX
+444,6th Gen AMD Ryzen 7 6800HS ,AMD,6th,Ryzen 7,6800HS
+445,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+446,Intel Celeron N4500,Intel,None,Celeron,N4500
+447,6th Gen AMD Ryzen 5 6600H,AMD,6th,Ryzen 5,6600H
+448,11th Gen Intel Core i7 1165G7,Intel,11th,i7,1165G7
+449,MediaTek MT8183,Media,None,None,MT8183
+450,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+451,Intel Celeron Dual Core N4500,Intel,None,Celeron,N4500
+452,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+453,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+454,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+455,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+456,6th Gen AMD Ryzen 7  6800H,AMD,6th,Ryzen 7,6800H
+457,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+458,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+459,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+460,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+461,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+462,6th Gen AMD Ryzen 5 6600H,AMD,6th,Ryzen 5,6600H
+463,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+464,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+465,4th Gen AMD Ryzen 7 PRO 4750U,AMD,4th,Ryzen 7,4750U
+466,5th Gen AMD Ryzen 5  5500H,AMD,5th,Ryzen 5,5500H
+467,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+468,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+469,3rd Gen AMD Athlon 3050U,AMD,3rd,Athlon,3050U
+470,AMD Athlon 7120U,AMD,None,Athlon,7120U
+471,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+472,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+473,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+474,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+475,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+476,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+477,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+478,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+479,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+480,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+481,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+482,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+483,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+484,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+485,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+486,6th Gen AMD Ryzen 7 6800H,AMD,6th,Ryzen 7,6800H
+487,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+488,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+489,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+490,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+491,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+492,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+493,5th Gen AMD Ryzen 7 5700U,AMD,5th,Ryzen 7,5700U
+494,10th Gen Intel Core i3 1005G1,Intel,10th,i3,1005G1
+495,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+496,5th Gen AMD Ryzen 5  5600H ,AMD,5th,Ryzen 5,5600H
+497,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+498,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+499,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+500,13th Gen Intel Core i7 1355U ,Intel,13th,i7,1355U
+501,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+502,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+503,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+504,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+505,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+506,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+507,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+508,12th Gen Intel Core i7 1250U,Intel,12th,i7,1250U
+509,Intel Celeron N4020,Intel,None,Celeron,N4020
+510,13th Gen Intel Core i5 1334U,Intel,13th,i5,1334U
+511,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+512,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+513,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+514,7th Gen AMD Ryzen 7  7730U,AMD,7th,Ryzen 7,7730U
+515,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+516,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+517,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+518,Intel Celeron N4500,Intel,None,Celeron,N4500
+519,6th Gen AMD Ryzen 7 6800H,AMD,6th,Ryzen 7,6800H
+520,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+521,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+522,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+523,7th Gen AMD Ryzen 7 7735U,AMD,7th,Ryzen 7,7735U
+524,11th Gen Intel Core i7 1165G7,Intel,11th,i7,1165G7
+525,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+526,5th Gen AMD Ryzen 5 5600HS,AMD,5th,Ryzen 5,5600HS
+527,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+528,5th Gen AMD Ryzen 7 5800HS,AMD,5th,Ryzen 7,5800HS
+529,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+530,3rd Gen AMD Ryzen 3  3250U,AMD,3rd,Ryzen 3,3250U
+531,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+532,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+533,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+534,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+535,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+536,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+537,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+538,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+539,13th Gen Intel Core i9 13980HX,Intel,13th,i9,13980HX
+540,12th Gen Intel Core i7 12700H ,Intel,12th,i7,12700H
+541,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+542,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+543,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+544,Intel Celeron N4500,Intel,None,Celeron,N4500
+545,Intel Celeron N4500,Intel,None,Celeron,N4500
+546,4th Gen Intel Celeron N4020,Intel,4th,Celeron,N4020
+547,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+548,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+549,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+550,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+551,5th Gen AMD Ryzen 7  5700U,AMD,5th,Ryzen 7,5700U
+552,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+553,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+554,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+555,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+556,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+557,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+558,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+559,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+560,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+561,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+562,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+563,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+564,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+565,11th Gen Intel Core i5 11400H,Intel,11th,i5,11400H
+566,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+567,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+568,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+569,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+570,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+571,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+572,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+573,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+574,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+575,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+576,5th Gen AMD Ryzen 7 5700U,AMD,5th,Ryzen 7,5700U
+577,7th Gen Amd Ryzen 5 7535HS,Amd,7th,Ryzen 5,7535HS
+578,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+579,3rd Gen AMD Ryzen 3  3250U,AMD,3rd,Ryzen 3,3250U
+580,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+581,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+582,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+583,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+584,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+585,11th Gen Intel Core i3 1125G4,Intel,11th,i3,1125G4
+586,11th Gen Intel Core i3 1125G4,Intel,11th,i3,1125G4
+587,11th Gen Intel Core i7 1165G7,Intel,11th,i7,1165G7
+588,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+589,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+590,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+591,10th Gen Intel Core i5 1035G4,Intel,10th,i5,1035G4
+592,Intel Core i3 N305,Intel,None,i3,N305
+593,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+594,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+595,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+596,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+597,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+598,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+599,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+600,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+601,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+602,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+603,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+604,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+605,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+606,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+607,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+608,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+609,7th Gen Amd Ryzen 5 7520U,Amd,7th,Ryzen 5,7520U
+610,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+611,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+612,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+613,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+614,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+615,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+616,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+617,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+618,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+619,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+620,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+621,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+622,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+623,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+624,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+625,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+626,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+627,5th Gen AMD Ryzen 5  5600H ,AMD,5th,Ryzen 5,5600H
+628,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+629,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+630,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+631,13th Gen Intel Core i7 1365U,Intel,13th,i7,1365U
+632,10th Gen Intel Core i5 10210U,Intel,10th,i5,10210U
+633,12th Gen Intel Core i7 1250U,Intel,12th,i7,1250U
+634,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+635,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+636,13th Gen Intel Core i5 13500H,Intel,13th,i5,13500H
+637,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+638,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+639,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+640,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+641,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+642,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+643,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+644,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+645,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+646,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+647,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+648,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+649,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+650,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+651,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+652,13th Gen Intel Core i9 13980HX,Intel,13th,i9,13980HX
+653,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+654,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+655,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+656,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+657,13th Gen Intel Core i9 13980HX,Intel,13th,i9,13980HX
+658,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+659,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+660,11th Gen Intel Core i7 1195G7,Intel,11th,i7,1195G7
+661,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+662,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+663,13th Gen Intel Core i5 13420H,Intel,13th,i5,13420H
+664,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+665,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+666,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+667,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+668,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+669,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+670,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+671,12th Gen Intel Core i7 12700H,Intel,12th,i7,12700H
+672,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+673,13th Gen Intel Core i7 13700HX,Intel,13th,i7,13700HX
+674,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+675,5th Gen AMD Ryzen 7 5825U,AMD,5th,Ryzen 7,5825U
+676,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+677,13th Gen Intel Core i9 13900HK,Intel,13th,i9,13900HK
+678,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+679,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+680,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+681,7th Gen Amd Ryzen 7 7745HX,Amd,7th,Ryzen 7,7745HX
+682,13th Gen Intel Core i9 13980HX,Intel,13th,i9,13980HX
+683,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+684,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+685,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+686,12th Gen Intel Core i7 12700H,Intel,12th,i7,12700H
+687,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+688,7th Gen Amd Ryzen 9 7845HX,Amd,7th,Ryzen 9,7845HX
+689,7th Gen AMD Ryzen 7 7840HS,AMD,7th,Ryzen 7,7840HS
+690,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+691,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+692,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+693,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+694,12th Gen Intel Core i7 12650H ,Intel,12th,i7,12650H
+695,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+696,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+697,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+698,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+699,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+700,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+701,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+702,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+703,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+704,12th Gen Intel Core i9 12900H,Intel,12th,i9,12900H
+705,12th Gen Intel Core i9 12900H,Intel,12th,i9,12900H
+706,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+707,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+708,12th Gen Intel Core i7 12700H ,Intel,12th,i7,12700H
+709,12th Gen Intel Core i9 12900H,Intel,12th,i9,12900H
+710,Intel Pentium Silver   N6000 ,Intel,None,Pentium,N6000
+711,12th Gen Intel Core i7 12700H ,Intel,12th,i7,12700H
+712,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+713,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+714,12th Gen Intel Core i7 12700H ,Intel,12th,i7,12700H
+715,Intel Celeron  N4020 ,Intel,None,Celeron,N4020
+716,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+717,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+718,6th Gen AMD Ryzen 7  7735HS,AMD,6th,Ryzen 7,7735HS
+719,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+720,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+721,3rd Gen AMD Ryzen 3  3250U,AMD,3rd,Ryzen 3,3250U
+722,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+723,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+724,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+725,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+726,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+727,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+728,12th Gen Intel Core i5 12450H ,Intel,12th,i5,12450H
+729,7th Gen AMD Ryzen 3 7330U,AMD,7th,Ryzen 3,7330U
+730,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+731,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+732,7th Gen AMD Ryzen 3 7330U,AMD,7th,Ryzen 3,7330U
+733,11th Gen Intel Core i7 1165G7 ,Intel,11th,i7,1165G7
+734,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+735,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+736,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+737,4th Gen Intel Celeron N4020,Intel,4th,Celeron,N4020
+738,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+739,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+740,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+741,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+742,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+743,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+744,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+745,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+746,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+747,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+748,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+749,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+750,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+751,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+752,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+753,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+754,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+755,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+756,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+757,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+758,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+759,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+760,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+761,7th Gen Amd Ryzen 5 7520U,Amd,7th,Ryzen 5,7520U
+762,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+763,5th Gen AMD Ryzen 7   5700U,AMD,5th,Ryzen 7,5700U
+764,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+765,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+766,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+767,6th Gen AMD Ryzen 5 6600H,AMD,6th,Ryzen 5,6600H
+768,6th Gen AMD Ryzen 5 6600H,AMD,6th,Ryzen 5,6600H
+769,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+770,10th Gen Intel Core i3 1005G1,Intel,10th,i3,1005G1
+771,7th Gen AMD Ryzen 9 7940HS,AMD,7th,Ryzen 9,7940HS
+772,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+773,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+774,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+775,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+776,5th Gen AMD Ryzen 5  5600H,AMD,5th,Ryzen 5,5600H
+777,11th Gen Intel Core i5 11320H,Intel,11th,i5,11320H
+778,7th Gen AMD Ryzen 5 7520U,AMD,7th,Ryzen 5,7520U
+779,10th Gen Intel Core i7 10750H ,Intel,10th,i7,10750H
+780,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+781,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+782,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+783,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+784,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+785,Intel Core i3 N305,Intel,None,i3,N305
+786,7th Gen Amd Ryzen 5 7530U,Amd,7th,Ryzen 5,7530U
+787,7th Gen Amd Ryzen 9 7940HS,Amd,7th,Ryzen 9,7940HS
+788,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+789,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+790,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+791,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+792,7th Gen AMD Ryzen 7  7735HS,AMD,7th,Ryzen 7,7735HS
+793,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+794,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+795,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+796,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+797,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+798,7th Gen AMD Ryzen 7 7735HS,AMD,7th,Ryzen 7,7735HS
+799,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+800,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+801,7th Gen AMD Ryzen 7  7735HS,AMD,7th,Ryzen 7,7735HS
+802,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+803,7th Gen AMD Ryzen 5 7535HS,AMD,7th,Ryzen 5,7535HS
+804,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+805,13th Gen Intel Core i5 1340p,Intel,13th,i5,1340p
+806,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+807,12th Gen Intel Core i7 1260P,Intel,12th,i7,1260P
+808,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+809,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+810,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+811,11th Gen Intel Core i5 11260H,Intel,11th,i5,11260H
+812,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+813,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+814,12th Gen Intel Core i5 1240P,Intel,12th,i5,1240P
+815,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+816,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+817,13th Gen Intel Core i5 13500H ,Intel,13th,i5,13500H
+818,13th Gen Intel Core i9 13900HX,Intel,13th,i9,13900HX
+819,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+820,12th Gen Intel Core i7 1255U,Intel,12th,i7,1255U
+821,7th Gen AMD Ryzen 7 7745HX,AMD,7th,Ryzen 7,7745HX
+822,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+823,13th Gen Intel Core i7 1360P,Intel,13th,i7,1360P
+824,13th Gen Intel Core i5 1340P,Intel,13th,i5,1340P
+825,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+826,5th Gen AMD Ryzen 5  5500u,AMD,5th,Ryzen 5,5500u
+827,Intel Celeron  N4020,Intel,None,Celeron,N4020
+828,Intel Celeron  N4020,Intel,None,Celeron,N4020
+829,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+830,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+831,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+832,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+833,7th Gen AMD Ryzen 7 7730U,AMD,7th,Ryzen 7,7730U
+834,5th Gen AMD Ryzen 5 5500U,AMD,5th,Ryzen 5,5500U
+835,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+836,5th Gen AMD Ryzen 5 5600HS,AMD,5th,Ryzen 5,5600HS
+837,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+838,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+839,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+840,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+841,13th Gen Intel Core i7 13620H,Intel,13th,i7,13620H
+842,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+843,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+844,12th Gen Intel Core i3 1215U,Intel,12th,i3,1215U
+845,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+846,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+847,12th Gen Intel Core i3 1215U ,Intel,12th,i3,1215U
+848,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+849,7th Gen AMD Ryzen 3 7320U,AMD,7th,Ryzen 3,7320U
+850,11th Gen Intel Core i7 1165G7,Intel,11th,i7,1165G7
+851,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+852,3rd Gen AMD Athlon 3050U,AMD,3rd,Athlon,3050U
+853,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+854,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+855,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+856,11th Gen Intel Core i5 11400H ,Intel,11th,i5,11400H
+857,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+858,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+859,13th Gen Intel Core i7 13700HX ,Intel,13th,i7,13700HX
+860,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+861,Intel Pentium Silver N6000,Intel,None,Pentium,N6000
+862,Apple M2,Apple,None,M2,M2
+863,13th Gen Intel Core i3 1305U,Intel,13th,i3,1305U
+864,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+865,11th Gen Intel Core i5 1155G7,Intel,11th,i5,1155G7
+866,Intel Celeron N4020,Intel,None,Celeron,N4020
+867,12th Gen Intel Core i5 1235U,Intel,12th,i5,1235U
+868,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+869,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+870,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+871,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+872,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+873,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+874,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+875,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+876,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+877,7th Gen AMD Ryzen 5 7530U,AMD,7th,Ryzen 5,7530U
+878,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+879,13th Gen Intel Core i9 13900H,Intel,13th,i9,13900H
+880,12th Gen Intel Core i5 12500H ,Intel,12th,i5,12500H
+881,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+882,12th Gen Intel Core i7 12650H,Intel,12th,i7,12650H
+883,Intel Celeron  N4500,Intel,None,Celeron,N4500
+884,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+885,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H
+886,3rd Gen AMD Ryzen 3  3250U,AMD,3rd,Ryzen 3,3250U
+887,5th Gen AMD Ryzen 5 5600H,AMD,5th,Ryzen 5,5600H
+888,5th Gen AMD Ryzen 7 5800HS,AMD,5th,Ryzen 7,5800HS
+889,11th Gen Intel Core i3 1115G4,Intel,11th,i3,1115G4
+890,7th Gen AMD Ryzen 7040 Series 040,AMD,7th,Ryzen 7,040
+891,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+892,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+893,13th Gen Intel Core i5 1340p,Intel,13th,i5,1340p
+894,13th Gen Intel Core i9 13900HX ,Intel,13th,i9,13900HX
+895,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+896,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+897,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+898,13th Gen Intel Core i5 13450HX,Intel,13th,i5,13450HX
+899,13th Gen Intel Core i7 13650HX,Intel,13th,i7,13650HX
+900,12th Gen Intel Core i5 12500H,Intel,12th,i5,12500H
+901,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+902,13th Gen Intel Core i7 1355U ,Intel,13th,i7,1355U
+903,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+904,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+905,13th Gen Intel Core i3 1315U,Intel,13th,i3,1315U
+906,13th Gen Intel Core i5 1335U,Intel,13th,i5,1335U
+907,13th Gen Intel Core i7 13700H,Intel,13th,i7,13700H
+908,7th Gen AMD Ryzen 9 7940HS,AMD,7th,Ryzen 9,7940HS
+909,12th Gen Intel Core i5 1230U,Intel,12th,i5,1230U
+910,12th Gen Intel Core i5 12450H,Intel,12th,i5,12450H
+911,7th Gen AMD Ryzen 9 7940HS,AMD,7th,Ryzen 9,7940HS
+912,13th Gen Intel Core i7 1355U,Intel,13th,i7,1355U
+913,11th Gen Intel Core i5 1135G7,Intel,11th,i5,1135G7
+914,5th Gen AMD Ryzen 7 5800H,AMD,5th,Ryzen 7,5800H

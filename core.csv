@@ -1,0 +1,916 @@
+,Core_replaced,cores,thread
+0,"6 Core, 12 Threads",6 Core, 12 Threads
+1,"2 Core, 4 Threads",2 Core, 4 Threads
+2,"4 Core, 8 Threads",4 Core, 8 Threads
+3,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+4,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+5,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+6,8 Core (4P + 4E),8 Core (4P + 4E),None
+7,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+8,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+9,"6 Core, 12 Threads",6 Core, 12 Threads
+10,"4 Core, 8 Threads",4 Core, 8 Threads
+11,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+12,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+13,"8 Core, 16 Threads",8 Core, 16 Threads
+14,8 Core (4P + 4E),8 Core (4P + 4E),None
+15,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+16,"4 Core, 8 Threads",4 Core, 8 Threads
+17,8 Core (4P + 4E),8 Core (4P + 4E),None
+18,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+19,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+20,"6 Core, 12 Threads",6 Core, 12 Threads
+21,"6 Core, 12 Threads",6 Core, 12 Threads
+22,"8 Core, 16 Threads",8 Core, 16 Threads
+23,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+24,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+25,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+26,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+27,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+28,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+29,"12 Cores (2P + 8E + 2LP-E), 14 Threads",12 Cores (2P + 8E + 2LP-E), 14 Threads
+30,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+31,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+32,"12 Cores (2P + 8E + 2LP-E), 14 Threads",12 Cores (2P + 8E + 2LP-E), 14 Threads
+33,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+34,"4 Core, 8 Threads",4 Core, 8 Threads
+35,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+36,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+37,"8 Core, 16 Threads",8 Core, 16 Threads
+38,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+39,"4 Core, 8 Threads",4 Core, 8 Threads
+40,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+41,"8 Core, 16 Threads",8 Core, 16 Threads
+42,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+43,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+44,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+45,"2 Core, 2 Threads",2 Core, 2 Threads
+46,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+47,"8 Core, 16 Threads",8 Core, 16 Threads
+48,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+49,"6 Core, 12 Threads",6 Core, 12 Threads
+50,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+51,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+52,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+53,"8 Core, 16 Threads",8 Core, 16 Threads
+54,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+55,"8 Core, 16 Threads",8 Core, 16 Threads
+56,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+57,"8 Core, 16 Threads",8 Core, 16 Threads
+58,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+59,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+60,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+61,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+62,"8 Core, 16 Threads",8 Core, 16 Threads
+63,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+64,"20 Cores (8P + 12E), 28 Threads",20 Cores (8P + 12E), 28 Threads
+65,32 GB DDR5 RAM,None,None
+66,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+67,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+68,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+69,16 Cores (12P + 4E),16 Cores (12P + 4E),None
+70,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+71,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+72,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+73,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+74,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+75,"4 Core, 8 Threads",4 Core, 8 Threads
+76,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+77,"8 Core, 16 Threads",8 Core, 16 Threads
+78,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+79,"8 Core, 16 Threads",8 Core, 16 Threads
+80,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+81,"8 Core, 16 Threads",8 Core, 16 Threads
+82,"6 Core, 12 Threads",6 Core, 12 Threads
+83,"6 Core, 12 Threads",6 Core, 12 Threads
+84,"8 Core, 16 Threads",8 Core, 16 Threads
+85,"2 Core, 2 Threads",2 Core, 2 Threads
+86,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+87,"4 Core, 4 Threads",4 Core, 4 Threads
+88,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+89,"6 Core, 12 Threads",6 Core, 12 Threads
+90,"6 Core, 12 Threads",6 Core, 12 Threads
+91,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+92,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+93,"8 Core, 16 Threads",8 Core, 16 Threads
+94,"6 Core, 12 Threads",6 Core, 12 Threads
+95,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+96,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+97,"2 Core, 4 Threads",2 Core, 4 Threads
+98,"6 Core, 12 Threads",6 Core, 12 Threads
+99,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+100,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+101,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+102,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+103,"8 Core, 16 Threads",8 Core, 16 Threads
+104,"6 Core, 12 Threads",6 Core, 12 Threads
+105,"8 Core, 16 Threads",8 Core, 16 Threads
+106,"6 Core, 12 Threads",6 Core, 12 Threads
+107,"2 Core, 4 Threads",2 Core, 4 Threads
+108,Memory: 8 GB LPDDR4 Memory (On BD 8 GB),None,None
+109,4 Core,4 Core,None
+110,32 GB LPDDR5X RAM,None,None
+111,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+112,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+113,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+114,"12 Cores (2P + 8E + 2LP-E), 14 Threads",12 Cores (2P + 8E + 2LP-E), 14 Threads
+115,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+116,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+117,"12 Cores (2P + 8E + 2LP-E), 14 Threads",12 Cores (2P + 8E + 2LP-E), 14 Threads
+118,"12 Cores (2P + 8E + 2LP-E), 14 Threads",12 Cores (2P + 8E + 2LP-E), 14 Threads
+119,"8 Core, 16 Threads",8 Core, 16 Threads
+120,8 Core (4P + 4E),8 Core (4P + 4E),None
+121,8 Core (4P + 4E),8 Core (4P + 4E),None
+122,8 Core (4P + 4E),8 Core (4P + 4E),None
+123,8 Core (4P + 4E),8 Core (4P + 4E),None
+124,"20 Cores (8P + 12E), 28 Threads",20 Cores (8P + 12E), 28 Threads
+125,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+126,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+127,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+128,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+129,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+130,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+131,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+132,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+133,"4 Core, 8 Threads",4 Core, 8 Threads
+134,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+135,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+136,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+137,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+138,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+139,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+140,"2 Core, 4 Threads",2 Core, 4 Threads
+141,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+142,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+143,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+144,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+145,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+146,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+147,"2 Core, 4 Threads",2 Core, 4 Threads
+148,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+149,"4 Core, 8 Threads",4 Core, 8 Threads
+150,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+151,"6 Core, 12 Threads",6 Core, 12 Threads
+152,"4 Core, 8 Threads",4 Core, 8 Threads
+153,"8 Core, 16 Threads",8 Core, 16 Threads
+154,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+155,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+156,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+157,14 Cores (10P + 4E),14 Cores (10P + 4E),None
+158,11 Cores (5P + 6E),11 Cores (5P + 6E),None
+159,"8 Core, 16 Threads",8 Core, 16 Threads
+160,"2 Core, 2 Threads",2 Core, 2 Threads
+161,8 Core (4P + 4E),8 Core (4P + 4E),None
+162,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+163,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+164,"4 Core, 8 Threads",4 Core, 8 Threads
+165,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+166,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+167,"4 Core, 8 Threads",4 Core, 8 Threads
+168,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+169,"6 Core, 12 Threads",6 Core, 12 Threads
+170,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+171,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+172,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+173,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+174,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+175,"6 Core, 12 Threads",6 Core, 12 Threads
+176,"14 Cores, 20 Threads",14 Cores, 20 Threads
+177,"6 Core, 12 Threads",6 Core, 12 Threads
+178,"2 Core, 4 Threads",2 Core, 4 Threads
+179,16 GB DDR5 RAM,None,None
+180,"6 Core, 12 Threads",6 Core, 12 Threads
+181,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+182,"6 Core, 12 Threads",6 Core, 12 Threads
+183,"2 Core, 2 Threads",2 Core, 2 Threads
+184,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+185,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+186,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+187,"4 Core, 8 Threads",4 Core, 8 Threads
+188,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+189,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+190,"2 Core, 4 Threads",2 Core, 4 Threads
+191,"8 Core, 16 Threads",8 Core, 16 Threads
+192,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+193,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+194,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+195,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+196,"6 Core, 12 Threads",6 Core, 12 Threads
+197,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+198,"8 Core, 16 Threads",8 Core, 16 Threads
+199,8 Core (4P + 4E),8 Core (4P + 4E),None
+200,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+201,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+202,"4 Core, 8 Threads",4 Core, 8 Threads
+203,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+204,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+205,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+206,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+207,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+208,"8 Core, 16 Threads",8 Core, 16 Threads
+209,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+210,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+211,"6 Core, 12 Threads",6 Core, 12 Threads
+212,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+213,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+214,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+215,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+216,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+217,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+218,"4 Core, 8 Threads",4 Core, 8 Threads
+219,"2 Core, 2 Threads",2 Core, 2 Threads
+220,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+221,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+222,"8 Core, 16 Threads",8 Core, 16 Threads
+223,"6 Core, 12 Threads",6 Core, 12 Threads
+224,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+225,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+226,"8 Core, 16 Threads",8 Core, 16 Threads
+227,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+228,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+229,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+230,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+231,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+232,"6 Core, 12 Threads",6 Core, 12 Threads
+233,"6 Core, 12 Threads",6 Core, 12 Threads
+234,"6 Core, 12 Threads",6 Core, 12 Threads
+235,"8 Core, 16 Threads",8 Core, 16 Threads
+236,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+237,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+238,"2 Core, 2 Threads",2 Core, 2 Threads
+239,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+240,"4 Core, 8 Threads",4 Core, 8 Threads
+241,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+242,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+243,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+244,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+245,"4 Core, 4 Threads",4 Core, 4 Threads
+246,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+247,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+248,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+249,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+250,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+251,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+252,"2 Core, 4 Threads",2 Core, 4 Threads
+253,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+254,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+255,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+256,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+257,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+258,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+259,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+260,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+261,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+262,"6 Core, 12 Threads",6 Core, 12 Threads
+263,"8 Core, 16 Threads",8 Core, 16 Threads
+264,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+265,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+266,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+267,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+268,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+269,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+270,"14 Cores (4P + 8E + 2LP-E), 18 Threads",14 Cores (4P + 8E + 2LP-E), 18 Threads
+271,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+272,"4 Core, 8 Threads",4 Core, 8 Threads
+273,"6 Core, 12 Threads",6 Core, 12 Threads
+274,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+275,"8 Core, 16 Threads",8 Core, 16 Threads
+276,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+277,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+278,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+279,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+280,"4 Core, 4 Threads",4 Core, 4 Threads
+281,8 Core,8 Core,None
+282,8 Core,8 Core,None
+283,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+284,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+285,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+286,"6 Core, 12 Threads",6 Core, 12 Threads
+287,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+288,"6 Core, 12 Threads",6 Core, 12 Threads
+289,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+290,8 Core,8 Core,None
+291,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+292,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+293,"6 Core, 12 Threads",6 Core, 12 Threads
+294,"6 Core, 12 Threads",6 Core, 12 Threads
+295,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+296,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+297,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+298,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+299,"20 Cores (8P + 12E), 28 Threads",20 Cores (8P + 12E), 28 Threads
+300,"4 Core, 4 Threads",4 Core, 4 Threads
+301,"4 Core, 8 Threads",4 Core, 8 Threads
+302,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+303,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+304,"4 Core, 8 Threads",4 Core, 8 Threads
+305,"6 Core, 12 Threads",6 Core, 12 Threads
+306,"2 Core, 2 Threads",2 Core, 2 Threads
+307,"5 Cores, 5 Threads",5 Cores, 5 Threads
+308,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+309,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+310,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+311,"6 Core, 12 Threads",6 Core, 12 Threads
+312,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+313,"2 Core, 4 Threads",2 Core, 4 Threads
+314,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+315,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+316,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+317,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+318,"16 Cores (6P + 8E + 2LP-E), 22 Threads",16 Cores (6P + 8E + 2LP-E), 22 Threads
+319,"4 Core, 8 Threads",4 Core, 8 Threads
+320,"4 Core, 8 Threads",4 Core, 8 Threads
+321,"4 Core, 8 Threads",4 Core, 8 Threads
+322,"4 Core, 8 Threads",4 Core, 8 Threads
+323,"6 Core, 12 Threads",6 Core, 12 Threads
+324,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+325,"8 Core, 16 Threads",8 Core, 16 Threads
+326,"8 Core, 16 Threads",8 Core, 16 Threads
+327,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+328,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+329,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+330,"4 Core, 8 Threads",4 Core, 8 Threads
+331,"2 Core, 2 Threads",2 Core, 2 Threads
+332,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+333,"8 Core, 16 Threads",8 Core, 16 Threads
+334,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+335,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+336,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+337,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+338,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+339,"2 Core, 4 Threads",2 Core, 4 Threads
+340,"2 Core, 4 Threads",2 Core, 4 Threads
+341,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+342,"2 Core, 4 Threads",2 Core, 4 Threads
+343,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+344,"8 Core, 8 Threads",8 Core, 8 Threads
+345,"4 Core, 8 Threads",4 Core, 8 Threads
+346,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+347,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+348,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+349,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+350,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+351,"2 Core, 2 Threads",2 Core, 2 Threads
+352,12 Cores (6P + 6E),12 Cores (6P + 6E),None
+353,8 Core (4P + 4E),8 Core (4P + 4E),None
+354,12 Cores (6P + 6E),12 Cores (6P + 6E),None
+355,12 Cores (6P + 6E),12 Cores (6P + 6E),None
+356,14 Cores (10P + 4E),14 Cores (10P + 4E),None
+357,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+358,"4 Core, 8 Threads",4 Core, 8 Threads
+359,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+360,"6 Core, 12 Threads",6 Core, 12 Threads
+361,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+362,"4 Core, 8 Threads",4 Core, 8 Threads
+363,"2 Core, 2 Threads",2 Core, 2 Threads
+364,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+365,"8 Core, 16 Threads",8 Core, 16 Threads
+366,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+367,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+368,"4 Core, 8 Threads",4 Core, 8 Threads
+369,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+370,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+371,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+372,"4 Core, 8 Threads",4 Core, 8 Threads
+373,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+374,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+375,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+376,"6 Core, 12 Threads",6 Core, 12 Threads
+377,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+378,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+379,"6 Core, 12 Threads",6 Core, 12 Threads
+380,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+381,"8 Core, 16 Threads",8 Core, 16 Threads
+382,"4 Core, 8 Threads",4 Core, 8 Threads
+383,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+384,"8 Core, 16 Threads",8 Core, 16 Threads
+385,"8 Core, 16 Threads",8 Core, 16 Threads
+386,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+387,"4 Core, 8 Threads",4 Core, 8 Threads
+388,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+389,"4 Core, 8 Threads",4 Core, 8 Threads
+390,"6 Core, 12 Threads",6 Core, 12 Threads
+391,"8 Core, 16 Threads",8 Core, 16 Threads
+392,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+393,"6 Core, 12 Threads",6 Core, 12 Threads
+394,"8 Core, 16 Threads",8 Core, 16 Threads
+395,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+396,"4 Core, 8 Threads",4 Core, 8 Threads
+397,2 Core,2 Core,None
+398,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+399,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+400,"4 Core, 8 Threads",4 Core, 8 Threads
+401,"4 Core, 8 Threads",4 Core, 8 Threads
+402,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+403,"8 Core, 16 Threads",8 Core, 16 Threads
+404,"4 Core, 8 Threads",4 Core, 8 Threads
+405,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+406,"8 Core, 16 Threads",8 Core, 16 Threads
+407,"2 Core, 2 Threads",2 Core, 2 Threads
+408,"2 Core, 2 Threads",2 Core, 2 Threads
+409,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+410,"4 Core, 8 Threads",4 Core, 8 Threads
+411,"2 Core, 2 Threads",2 Core, 2 Threads
+412,"2 Core, 4 Threads",2 Core, 4 Threads
+413,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+414,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+415,8 Core,8 Core,None
+416,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+417,"2 Core, 2 Threads",2 Core, 2 Threads
+418,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+419,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+420,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+421,"2 Core, 2 Threads",2 Core, 2 Threads
+422,"8 Core, 16 Threads",8 Core, 16 Threads
+423,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+424,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+425,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+426,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+427,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+428,"6 Core, 12 Threads",6 Core, 12 Threads
+429,"6 Core, 12 Threads",6 Core, 12 Threads
+430,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+431,"6 Core, 12 Threads",6 Core, 12 Threads
+432,"2 Core, 2 Threads",2 Core, 2 Threads
+433,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+434,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+435,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+436,"4 Core, 8 Threads",4 Core, 8 Threads
+437,"8 Core, 16 Threads",8 Core, 16 Threads
+438,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+439,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+440,"8 Core, 16 Threads",8 Core, 16 Threads
+441,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+442,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+443,24 Cores (8P + 16E),24 Cores (8P + 16E),None
+444,"8 Core, 16 Threads",8 Core, 16 Threads
+445,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+446,"2 Core, 2 Threads",2 Core, 2 Threads
+447,"6 Core, 12 Threads",6 Core, 12 Threads
+448,"4 Core, 8 Threads",4 Core, 8 Threads
+449,8 Core,8 Core,None
+450,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+451,"2 Core, 2 Threads",2 Core, 2 Threads
+452,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+453,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+454,"8 Core, 16 Threads",8 Core, 16 Threads
+455,"4 Core, 8 Threads",4 Core, 8 Threads
+456,"8 Core, 16 Threads",8 Core, 16 Threads
+457,"4 Core, 8 Threads",4 Core, 8 Threads
+458,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+459,"4 Core, 8 Threads",4 Core, 8 Threads
+460,"4 Core, 8 Threads",4 Core, 8 Threads
+461,"6 Core, 12 Threads",6 Core, 12 Threads
+462,"6 Core, 12 Threads",6 Core, 12 Threads
+463,"8 Core, 16 Threads",8 Core, 16 Threads
+464,"4 Core, 8 Threads",4 Core, 8 Threads
+465,"8 Core, 16 Threads",8 Core, 16 Threads
+466,"4 Core, 8 Threads",4 Core, 8 Threads
+467,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+468,"4 Core, 8 Threads",4 Core, 8 Threads
+469,"2 Core, 2 Threads",2 Core, 2 Threads
+470,"2 Core, 2 Threads",2 Core, 2 Threads
+471,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+472,"4 Core, 8 Threads",4 Core, 8 Threads
+473,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+474,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+475,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+476,"6 Core, 12 Threads",6 Core, 12 Threads
+477,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+478,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+479,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+480,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+481,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+482,"6 Core, 12 Threads",6 Core, 12 Threads
+483,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+484,"2 Core, 4 Threads",2 Core, 4 Threads
+485,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+486,"8 Core, 16 Threads",8 Core, 16 Threads
+487,"4 Core, 8 Threads",4 Core, 8 Threads
+488,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+489,"4 Core, 8 Threads",4 Core, 8 Threads
+490,"4 Core, 8 Threads",4 Core, 8 Threads
+491,"2 Core, 4 Threads",2 Core, 4 Threads
+492,"8 Core, 16 Threads",8 Core, 16 Threads
+493,"8 Core, 16 Threads",8 Core, 16 Threads
+494,"2 Core, 4 Threads",2 Core, 4 Threads
+495,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+496,"6 Core, 12 Threads",6 Core, 12 Threads
+497,"8 Core, 16 Threads",8 Core, 16 Threads
+498,"4 Core, 8 Threads",4 Core, 8 Threads
+499,"8 Core, 16 Threads",8 Core, 16 Threads
+500,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+501,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+502,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+503,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+504,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+505,"4 Core, 8 Threads",4 Core, 8 Threads
+506,"8 Core, 16 Threads",8 Core, 16 Threads
+507,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+508,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+509,"2 Core, 2 Threads",2 Core, 2 Threads
+510,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+511,"2 Core, 4 Threads",2 Core, 4 Threads
+512,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+513,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+514,"8 Core, 16 Threads",8 Core, 16 Threads
+515,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+516,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+517,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+518,"2 Core, 2 Threads",2 Core, 2 Threads
+519,"8 Core, 16 Threads",8 Core, 16 Threads
+520,"6 Core, 12 Threads",6 Core, 12 Threads
+521,"2 Core, 4 Threads",2 Core, 4 Threads
+522,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+523,"8 Core, 16 Threads",8 Core, 16 Threads
+524,"4 Core, 8 Threads",4 Core, 8 Threads
+525,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+526,"6 Core, 12 Threads",6 Core, 12 Threads
+527,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+528,"8 Core, 16 Threads",8 Core, 16 Threads
+529,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+530,"2 Core, 4 Threads",2 Core, 4 Threads
+531,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+532,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+533,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+534,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+535,"6 Core, 12 Threads",6 Core, 12 Threads
+536,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+537,"2 Core, 4 Threads",2 Core, 4 Threads
+538,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+539,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+540,20 Threads,None,20 Threads
+541,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+542,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+543,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+544,"2 Core, 2 Threads",2 Core, 2 Threads
+545,"2 Core, 2 Threads",2 Core, 2 Threads
+546,"2 Core, 2 Threads",2 Core, 2 Threads
+547,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+548,"6 Core, 12 Threads",6 Core, 12 Threads
+549,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+550,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+551,"8 Core, 16 Threads",8 Core, 16 Threads
+552,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+553,"8 Core, 16 Threads",8 Core, 16 Threads
+554,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+555,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+556,"8 Core, 16 Threads",8 Core, 16 Threads
+557,"4 Core, 8 Threads",4 Core, 8 Threads
+558,"4 Core, 8 Threads",4 Core, 8 Threads
+559,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+560,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+561,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+562,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+563,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+564,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+565,"6 Core, 12 Threads",6 Core, 12 Threads
+566,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+567,"6 Core, 12 Threads",6 Core, 12 Threads
+568,"6 Core, 12 Threads",6 Core, 12 Threads
+569,"4 Core, 8 Threads",4 Core, 8 Threads
+570,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+571,"6 Core, 12 Threads",6 Core, 12 Threads
+572,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+573,"6 Core, 12 Threads",6 Core, 12 Threads
+574,"2 Core, 4 Threads",2 Core, 4 Threads
+575,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+576,"8 Core, 16 Threads",8 Core, 16 Threads
+577,"6 Core, 12 Threads",6 Core, 12 Threads
+578,"6 Core, 12 Threads",6 Core, 12 Threads
+579,"2 Core, 4 Threads",2 Core, 4 Threads
+580,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+581,"6 Core, 12 Threads",6 Core, 12 Threads
+582,"4 Core, 8 Threads",4 Core, 8 Threads
+583,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+584,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+585,"4 Core, 8 Threads",4 Core, 8 Threads
+586,"4 Core, 8 Threads",4 Core, 8 Threads
+587,"4 Core, 8 Threads",4 Core, 8 Threads
+588,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+589,"2 Core, 4 Threads",2 Core, 4 Threads
+590,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+591,"4 Core, 8 Threads",4 Core, 8 Threads
+592,"8 Core, 8 Threads",8 Core, 8 Threads
+593,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+594,"6 Core, 12 Threads",6 Core, 12 Threads
+595,"6 Core, 12 Threads",6 Core, 12 Threads
+596,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+597,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+598,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+599,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+600,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+601,"4 Core, 8 Threads",4 Core, 8 Threads
+602,"2 Core, 4 Threads",2 Core, 4 Threads
+603,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+604,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+605,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+606,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+607,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+608,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+609,"4 Core, 8 Threads",4 Core, 8 Threads
+610,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+611,"6 Core, 12 Threads",6 Core, 12 Threads
+612,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+613,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+614,"6 Core, 12 Threads",6 Core, 12 Threads
+615,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+616,"6 Core, 12 Threads",6 Core, 12 Threads
+617,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+618,"6 Core, 12 Threads",6 Core, 12 Threads
+619,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+620,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+621,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+622,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+623,"8 Core, 16 Threads",8 Core, 16 Threads
+624,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+625,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+626,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+627,"6 Core, 12 Threads",6 Core, 12 Threads
+628,"6 Core, 12 Threads",6 Core, 12 Threads
+629,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+630,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+631,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+632,"4 Core, 8 Threads",4 Core, 8 Threads
+633,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+634,"4 Core, 8 Threads",4 Core, 8 Threads
+635,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+636,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+637,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+638,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+639,"6 Core, 12 Threads",6 Core, 12 Threads
+640,"2 Core, 4 Threads",2 Core, 4 Threads
+641,"6 Core, 12 Threads",6 Core, 12 Threads
+642,"8 Core, 16 Threads",8 Core, 16 Threads
+643,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+644,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+645,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+646,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+647,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+648,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+649,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+650,"2 Core, 4 Threads",2 Core, 4 Threads
+651,"8 Core, 16 Threads",8 Core, 16 Threads
+652,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+653,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+654,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+655,"8 Core, 16 Threads",8 Core, 16 Threads
+656,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+657,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+658,"8 Core, 16 Threads",8 Core, 16 Threads
+659,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+660,"4 Core, 8 Threads",4 Core, 8 Threads
+661,"2 Core, 4 Threads",2 Core, 4 Threads
+662,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+663,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+664,"6 Core, 12 Threads",6 Core, 12 Threads
+665,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+666,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+667,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+668,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+669,"4 Core, 8 Threads",4 Core, 8 Threads
+670,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+671,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+672,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+673,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+674,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+675,"8 Core, 16 Threads",8 Core, 16 Threads
+676,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+677,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+678,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+679,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+680,"2 Core, 4 Threads",2 Core, 4 Threads
+681,"8 Core, 16 Threads",8 Core, 16 Threads
+682,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+683,"6 Core, 12 Threads",6 Core, 12 Threads
+684,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+685,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+686,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+687,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+688,"12 Cores, 24 Threads",12 Cores, 24 Threads
+689,"8 Core, 16 Threads",8 Core, 16 Threads
+690,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+691,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+692,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+693,"4 Core, 8 Threads",4 Core, 8 Threads
+694,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+695,"6 Core, 12 Threads",6 Core, 12 Threads
+696,"6 Core, 12 Threads",6 Core, 12 Threads
+697,"4 Core, 8 Threads",4 Core, 8 Threads
+698,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+699,"4 Core, 8 Threads",4 Core, 8 Threads
+700,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+701,"8 Core, 16 Threads",8 Core, 16 Threads
+702,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+703,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+704,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+705,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+706,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+707,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+708,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+709,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+710,"4 Core, 4 Threads",4 Core, 4 Threads
+711,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+712,"6 Core, 12 Threads",6 Core, 12 Threads
+713,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+714,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+715,"2 Core, 2 Threads",2 Core, 2 Threads
+716,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+717,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+718,"8 Core, 16 Threads",8 Core, 16 Threads
+719,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+720,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+721,"2 Core, 4 Threads",2 Core, 4 Threads
+722,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+723,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+724,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+725,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+726,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+727,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+728,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+729,"4 Core, 8 Threads",4 Core, 8 Threads
+730,"4 Core, 8 Threads",4 Core, 8 Threads
+731,"6 Core, 12 Threads",6 Core, 12 Threads
+732,"4 Core, 8 Threads",4 Core, 8 Threads
+733,"4 Core, 8 Threads",4 Core, 8 Threads
+734,"6 Core, 12 Threads",6 Core, 12 Threads
+735,"6 Core, 12 Threads",6 Core, 12 Threads
+736,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+737,"2 Core, 2 Threads",2 Core, 2 Threads
+738,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+739,"6 Core, 12 Threads",6 Core, 12 Threads
+740,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+741,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+742,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+743,"6 Core, 12 Threads",6 Core, 12 Threads
+744,"8 Core, 16 Threads",8 Core, 16 Threads
+745,"2 Core, 4 Threads",2 Core, 4 Threads
+746,"4 Core, 8 Threads",4 Core, 8 Threads
+747,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+748,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+749,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+750,"4 Core, 8 Threads",4 Core, 8 Threads
+751,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+752,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+753,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+754,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+755,"6 Core, 12 Threads",6 Core, 12 Threads
+756,"6 Core, 12 Threads",6 Core, 12 Threads
+757,"2 Core, 4 Threads",2 Core, 4 Threads
+758,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+759,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+760,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+761,"4 Core, 8 Threads",4 Core, 8 Threads
+762,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+763,"8 Core, 16 Threads",8 Core, 16 Threads
+764,"4 Core, 8 Threads",4 Core, 8 Threads
+765,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+766,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+767,"6 Core, 12 Threads",6 Core, 12 Threads
+768,"6 Core, 12 Threads",6 Core, 12 Threads
+769,"4 Core, 8 Threads",4 Core, 8 Threads
+770,"2 Core, 4 Threads",2 Core, 4 Threads
+771,"8 Core, 16 Threads",8 Core, 16 Threads
+772,"6 Core, 12 Threads",6 Core, 12 Threads
+773,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+774,"8 Core, 16 Threads",8 Core, 16 Threads
+775,"8 Core, 16 Threads",8 Core, 16 Threads
+776,"6 Core, 12 Threads",6 Core, 12 Threads
+777,"4 Core, 8 Threads",4 Core, 8 Threads
+778,"4 Core, 8 Threads",4 Core, 8 Threads
+779,"6 Core, 12 Threads",6 Core, 12 Threads
+780,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+781,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+782,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+783,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+784,"4 Core, 8 Threads",4 Core, 8 Threads
+785,"8 Core, 8 Threads",8 Core, 8 Threads
+786,"6 Core, 12 Threads",6 Core, 12 Threads
+787,"8 Core, 16 Threads",8 Core, 16 Threads
+788,"6 Core, 12 Threads",6 Core, 12 Threads
+789,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+790,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+791,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+792,"8 Core, 16 Threads",8 Core, 16 Threads
+793,"8 Core, 16 Threads",8 Core, 16 Threads
+794,"6 Core, 12 Threads",6 Core, 12 Threads
+795,"6 Core, 12 Threads",6 Core, 12 Threads
+796,"8 Core, 16 Threads",8 Core, 16 Threads
+797,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+798,"8 Core, 16 Threads",8 Core, 16 Threads
+799,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+800,"6 Core, 12 Threads",6 Core, 12 Threads
+801,"8 Core, 16 Threads",8 Core, 16 Threads
+802,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+803,"6 Core, 12 Threads",6 Core, 12 Threads
+804,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+805,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+806,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+807,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+808,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+809,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+810,"6 Core, 12 Threads",6 Core, 12 Threads
+811,"6 Core, 12 Threads",6 Core, 12 Threads
+812,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+813,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+814,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+815,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+816,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+817,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+818,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+819,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+820,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+821,"8 Core, 16 Threads",8 Core, 16 Threads
+822,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+823,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+824,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+825,"8 Core, 16 Threads",8 Core, 16 Threads
+826,"6 Core, 12 Threads",6 Core, 12 Threads
+827,"2 Core, 2 Threads",2 Core, 2 Threads
+828,"2 Core, 2 Threads",2 Core, 2 Threads
+829,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+830,"8 Core, 16 Threads",8 Core, 16 Threads
+831,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+832,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+833,"8 Core, 16 Threads",8 Core, 16 Threads
+834,"6 Core, 12 Threads",6 Core, 12 Threads
+835,"8 Core, 16 Threads",8 Core, 16 Threads
+836,"6 Core, 12 Threads",6 Core, 12 Threads
+837,"6 Core, 12 Threads",6 Core, 12 Threads
+838,"4 Core, 8 Threads",4 Core, 8 Threads
+839,"2 Core, 4 Threads",2 Core, 4 Threads
+840,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+841,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+842,"2 Core, 4 Threads",2 Core, 4 Threads
+843,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+844,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+845,"4 Core, 8 Threads",4 Core, 8 Threads
+846,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+847,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+848,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+849,"4 Core, 8 Threads",4 Core, 8 Threads
+850,"4 Core, 8 Threads",4 Core, 8 Threads
+851,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+852,"2 Core, 2 Threads",2 Core, 2 Threads
+853,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+854,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+855,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+856,"6 Core, 12 Threads",6 Core, 12 Threads
+857,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+858,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+859,"16 Cores (8P + 8E), 24 Threads",16 Cores (8P + 8E), 24 Threads
+860,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+861,"4 Core, 4 Threads",4 Core, 4 Threads
+862,8 Core (4P + 4E),8 Core (4P + 4E),None
+863,"5 Cores (1P + 4E), 6 Threads",5 Cores (1P + 4E), 6 Threads
+864,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+865,"4 Core, 8 Threads",4 Core, 8 Threads
+866,"2 Core, 2 Threads",2 Core, 2 Threads
+867,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+868,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+869,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+870,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+871,"4 Core, 8 Threads",4 Core, 8 Threads
+872,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+873,"2 Core, 4 Threads",2 Core, 4 Threads
+874,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+875,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+876,"6 Core, 12 Threads",6 Core, 12 Threads
+877,"6 Core, 12 Threads",6 Core, 12 Threads
+878,"6 Core, 12 Threads",6 Core, 12 Threads
+879,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+880,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+881,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+882,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+883,"2 Core, 2 Threads",2 Core, 2 Threads
+884,"6 Core, 12 Threads",6 Core, 12 Threads
+885,"8 Core, 16 Threads",8 Core, 16 Threads
+886,"2 Core, 4 Threads",2 Core, 4 Threads
+887,"6 Core, 12 Threads",6 Core, 12 Threads
+888,"8 Core, 16 Threads",8 Core, 16 Threads
+889,"2 Core, 4 Threads",2 Core, 4 Threads
+890,"8 Core, 16 Threads",8 Core, 16 Threads
+891,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+892,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+893,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+894,"24 Cores (8P + 16E), 32 Threads",24 Cores (8P + 16E), 32 Threads
+895,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+896,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+897,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+898,"10 Cores (6P + 4E), 16 Threads",10 Cores (6P + 4E), 16 Threads
+899,14 Cores (6P + 8E),14 Cores (6P + 8E),None
+900,"12 Cores (4P + 8E), 16 Threads",12 Cores (4P + 8E), 16 Threads
+901,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+902,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+903,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+904,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+905,"6 Core (2P + 4E), 8 Threads",6 Core (2P + 4E), 8 Threads
+906,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+907,"14 Cores (6P + 8E), 20 Threads",14 Cores (6P + 8E), 20 Threads
+908,"8 Core, 16 Threads",8 Core, 16 Threads
+909,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+910,"8 Core (4P + 4E), 12 Threads",8 Core (4P + 4E), 12 Threads
+911,"8 Core, 16 Threads",8 Core, 16 Threads
+912,"10 Cores (2P + 8E), 12 Threads",10 Cores (2P + 8E), 12 Threads
+913,"4 Core, 8 Threads",4 Core, 8 Threads
+914,"8 Core, 16 Threads",8 Core, 16 Threads
